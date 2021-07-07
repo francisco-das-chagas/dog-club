@@ -1,5 +1,5 @@
 # DOG CLUB 🐶
-Criação de Landing Page de uma empresa fictícia de Petshop.
+Criação de uma Landing Page de uma empresa fictícia de Petshop.
 Página 100% Responsiva para dispositivos móveis.
 
 Template utilizando:
