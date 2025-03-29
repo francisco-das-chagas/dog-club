@@ -5,8 +5,6 @@ Página 100% Responsiva para dispositivos móveis.
 Template utilizando:
  - HTML
  - CSS
- 
- Para navegar basta clicar nesse link -> https://francisco-das-chagas.github.io/dog-club/
 
 ### DOG CLUB
 
